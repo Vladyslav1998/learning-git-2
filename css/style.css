@@ -1,0 +1,13 @@
+
+.child {
+   position: absolute;
+   top : 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 300px;
+}
+
+h2 {
+   font-weight: lighter;
+   font-style: italic;
+}
